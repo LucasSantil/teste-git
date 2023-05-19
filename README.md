@@ -4,4 +4,3 @@
 #### Pacatuba 19/05/2023
 
 ![Imagem HTML](html.png)
-![Aloisio](aloisio.jpeg)
