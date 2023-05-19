@@ -7,3 +7,5 @@
 ### Tier list de Blue Lock:
 #### Rin, Isagi e Nagi 1º
 #### Chigiri, Shidou, Kaiser 2º
+
+![Nagi](nagi.jpg)
